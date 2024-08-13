@@ -7,5 +7,5 @@
 
 ## nbviewer
 1. [apt_analysis.ipynb](https://github.com/YounseoKim62/python_for_DA/blob/main/1_apt_price_analysis.ipynb)
-2. [store_eda.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/2_store_eda.ipynb)
-3. [franchise_eda.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/3_franchise_eda.ipynb)
+2. [store_analysis.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/2_store_analysis.ipynb)
+3. [franchise_analysis.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/3_franchise_analysis.ipynb)
