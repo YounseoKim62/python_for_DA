@@ -6,6 +6,6 @@
 * 데이터 분석을 할 때 자주 사용되는 명령어 또는 헷갈리는 명령어들을 복습하기 위해 작성하였습니다.
 
 ## nbviewer
-1. [apt_analysis](https://github.com/YounseoKim62/python_for_DA/blob/main/1_apt_price_analysis.ipynb)
-2. [store_eda](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/2_store_eda.ipynb)
-3. [franchise_eda](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/3_franchise_eda.ipynb)
+1. [apt_analysis.ipynb](https://github.com/YounseoKim62/python_for_DA/blob/main/1_apt_price_analysis.ipynb)
+2. [store_eda.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/2_store_eda.ipynb)
+3. [franchise_eda.ipynb](https://nbviewer.org/github/YounseoKim62/python_for_DA/blob/main/3_franchise_eda.ipynb)
